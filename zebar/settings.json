@@ -1,0 +1,10 @@
+{
+  "$schema": "https://github.com/vimichael/make-windows-pretty/blob/main/zebar-config.yaml",
+  "startupConfigs": [
+    {
+      "pack": "glzr-io.starter",
+      "widget": "with-glazewm",
+      "preset": "default"
+    }
+  ]
+}
